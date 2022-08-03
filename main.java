@@ -1,7 +1,5 @@
 public class main{
 	public static void main(String[] args) {
-		Integer x=10,y=20;
-		Integer z=x+y;
-		System.out. println(z);
+		System.out.println("my village: Hamirpar \n tankara,morbi,gujarat \n pin-363650");
 	}
 }
